@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "e2e": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^11.1.0"
+  }
+
+
+}
